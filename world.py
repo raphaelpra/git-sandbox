@@ -1,3 +1,4 @@
+print("message sur main")
 
 print("Bonjour tout le monde")
 
