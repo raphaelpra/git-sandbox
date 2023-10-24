@@ -1,11 +1,9 @@
-print("message sur main")
-
-print("Bonjour tout le monde")
-
-print("Bonjour Vscode - wie geht's")
-print("Bonjour Vscode2 - wie geht's")
-# hello
-
-print("Ceci est une nouvelle ligne")
-
-print("ceci est un commentaire qu'on fait sur develop")
+print('hello python 2')
+print('hello python 3')
+print('hello python 4')
+print('hello python 5')
+print('hello python 6')
+print('hello python 3')
+print('hello python 7')
+print('hello python 8')
+print('hello python 9')
